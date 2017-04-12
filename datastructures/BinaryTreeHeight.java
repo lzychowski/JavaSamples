@@ -1,5 +1,5 @@
 class BinaryTreeHeight {
-    
+
     static int leftHeight = 0;
     static int rightHeight = 0;
 
@@ -23,7 +23,7 @@ class BinaryTreeHeight {
 	*/
 
     public static void main(String[] args) {
-        // Instantiate new LinkedList based on Node above
+        // Instantiate new BinaryTree based on Node above
         // System.out.println(height(root));
     }	
 }
